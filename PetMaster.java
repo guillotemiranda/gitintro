@@ -1,7 +1,7 @@
 public class PetMaster {
 
 // comentario agragado para probar GIT
-    
+
     public static void main(String[] args) {
 
         Dog myDog = new Dog();
